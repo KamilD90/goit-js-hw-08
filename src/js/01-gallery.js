@@ -1,10 +1,7 @@
+import { galleryItems } from './gallery-items.js';
 // Opisany w dokumentacji
 import SimpleLightbox from './simple-lightbox.js';
-
 import 'simplelightbox/dist/simple-lightbox.min.css';
-
-// Change code below this line
-import { galleryItems } from './gallery-items.js';
 // Change code below this line
 
 let gallery__list = document.querySelector('.gallery');
